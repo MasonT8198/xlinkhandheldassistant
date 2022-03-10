@@ -1,5 +1,5 @@
 ## Linux
-### Debian Testing and above
+## Debian Testing and above
 This program has only been tested on Debian Testing and above.
 It requires the following packages to be installed:
 - cmake
