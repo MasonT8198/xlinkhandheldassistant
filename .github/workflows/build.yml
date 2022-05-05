@@ -45,6 +45,7 @@ jobs:
           
   windows:
     name: Windows
+    continue-on-error: true
     runs-on: self-windows
     defaults:
       run:
